@@ -116,5 +116,5 @@ See [DOCS/accessibility.md](https://github.com/Interested-Deving-1896/Smart-File
 ## License
 
 <!-- AI:start:license -->
-[MIT](https://github.com/Interested-Deving-1896/Smart-File-Organizer/blob/main/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- License not detected — add a LICENSE file to this repo. -->
 <!-- AI:end:license -->
